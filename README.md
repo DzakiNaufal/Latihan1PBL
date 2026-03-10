@@ -1,5 +1,5 @@
 # Latihan1PBL 
 
-Nama    : Dzaki Naufal putra
-NIM     : 2411082003
+Nama    : Dzaki Naufal putra <br>
+NIM     : 2411082003 <br>
 Matkul  : Konstruksi Evolusi PL
